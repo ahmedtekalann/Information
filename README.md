@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @tekalanahmed
-- 👀 I’m interested in proggramming
+- 👋 Hi, I’m @ahmedtekalann
+-    I'm just graduated Computer Engineering.
+- 👀 I’m interested in programming
 - 🌱 I’m currently developing Java and SQL
 - 📫 You can reach me on "ahmettekalan@gmail.com"
 
