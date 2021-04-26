@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmedtekalann
--    I'm just graduated Computer Engineering.
+-    I just graduated from Computer Engineering.
 - 👀 I’m interested in programming
 - 🌱 I’m currently developing Java and SQL
 - 📫 You can reach me on "ahmettekalan@gmail.com"
